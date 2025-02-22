@@ -1,0 +1,3 @@
+# Ethical Use Disclaimer
+
+PhishSim is intended for educational and authorized security testing purposes only. Unauthorized use of this tool for malicious purposes is strictly prohibited. Always obtain proper authorization before conducting any phishing simulations.
