@@ -1,4 +1,4 @@
-Python
+# Python
 import smtplib
 from email.mime.text import MIMEText
 from flask import Flask, request, render_template
